@@ -3,3 +3,6 @@
   - Setup credential di jenkins
 - Create jenkinsfile
 - Setup webhook di gitlab (opsional)
+- Setup kube secret
+- Update values helm
+- 

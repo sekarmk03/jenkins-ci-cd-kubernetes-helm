@@ -1,0 +1,5 @@
+- Setup job di jenkins
+  - Create pipeline job di jenkins
+  - Setup credential di jenkins
+- Create jenkinsfile
+- Setup webhook di gitlab (opsional)
